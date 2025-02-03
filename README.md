@@ -1,4 +1,4 @@
-# 🎬 Análise exploratória e predidiva de Dados 
+# Análise exploratória e predidiva de Dados 
 Projeto de Ciência de Dados aplicando Machine Learning para previsão da eficiência automotiva.
 
 ## 📊 Visão Geral  
@@ -22,3 +22,5 @@ O objetivo deste projeto é tratar, extrair e analisar informações de um datas
       - Para os fabricantes, ao apostar em carros mais sofisticados, o ideal é usar tecnologias mais avançadas com motores potentes que possam otimizar a eficiência do combustível de carros maiores.
 
 📄 **[Ver Apresentação Completa](https://github.com/Gabriella-rns/Eficiencia-Automotiva/blob/main/Apresentac%CC%A7a%CC%83o_MPG.pdf)**
+
+📄 **[Ver Código Python](https://github.com/Gabriella-rns/Eficiencia-Automotiva/blob/main/MPG_combustivel_carro.ipynb)**
